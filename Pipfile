@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu118"
+verify_ssl = true
+name = "pytorch+cu118"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = true
+name = "pytorch+cu121"
+
+[packages]
+opencv-python = "==4.10.0.84"
+matplotlib = "==3.9.1"
+numpy = "==1.26.0"
+swig = "==4.2.1"
+cffi = "==1.16.0"
+torch = {version = "==2.4.0", index = "pytorch+cu118"}
+mujoco = "==3.2.0"
+gymnasium = {extras = ["all"], version = "==1.0.0a2"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.11"

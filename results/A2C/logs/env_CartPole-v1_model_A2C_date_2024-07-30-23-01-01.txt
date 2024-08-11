@@ -1,0 +1,35 @@
+A2C Training start. (seed: 17611)
+[00:00:03] EP 0000, STEP 000011, REWARD[-10:] 011.0¡¾000.0, REWARD[-100:] 011.0¡¾000.0, EXP_RATE[-100:] 0.5¡¾0.0, EVAL[-100:] 009.0¡¾000.0
+[00:00:23] EP 0956, STEP 149712, REWARD[-10:] 500.0¡¾000.0, REWARD[-100:] 405.0¡¾141.1, EXP_RATE[-100:] 0.2¡¾0.0, EVAL[-100:] 475.2¡¾068.7
+--> reached max_minutes (x) max_episodes (x) goal_mean_reward (o)
+Training complete.
+Final evaluation score 500.00¡¾0.00 in 541.28s training time, 26.75s wall-clock time.
+
+A2C Training start. (seed: 8271)
+[00:00:04] EP 0002, STEP 000030, REWARD[-10:] 010.0¡¾000.0, REWARD[-100:] 010.0¡¾000.0, EXP_RATE[-100:] 0.5¡¾0.0, EVAL[-100:] 010.0¡¾000.0
+[00:00:26] EP 1084, STEP 170863, REWARD[-10:] 331.3¡¾118.9, REWARD[-100:] 439.9¡¾113.4, EXP_RATE[-100:] 0.2¡¾0.0, EVAL[-100:] 475.4¡¾048.8
+--> reached max_minutes (x) max_episodes (x) goal_mean_reward (o)
+Training complete.
+Final evaluation score 500.00¡¾0.00 in 602.57s training time, 29.27s wall-clock time.
+
+A2C Training start. (seed: 33432)
+[00:00:04] EP 0000, STEP 000010, REWARD[-10:] 010.0¡¾000.0, REWARD[-100:] 010.0¡¾000.0, EXP_RATE[-100:] 0.4¡¾0.0, EVAL[-100:] 009.0¡¾000.0
+[00:00:28] EP 1147, STEP 181524, REWARD[-10:] 500.0¡¾000.0, REWARD[-100:] 474.9¡¾085.1, EXP_RATE[-100:] 0.2¡¾0.0, EVAL[-100:] 475.7¡¾046.5
+--> reached max_minutes (x) max_episodes (x) goal_mean_reward (o)
+Training complete.
+Final evaluation score 438.54¡¾20.54 in 649.97s training time, 30.95s wall-clock time.
+
+A2C Training start. (seed: 15455)
+[00:00:04] EP 0000, STEP 000009, REWARD[-10:] 009.0¡¾000.0, REWARD[-100:] 009.0¡¾000.0, EXP_RATE[-100:] 1.0¡¾0.0, EVAL[-100:] 009.0¡¾000.0
+[00:00:25] EP 1083, STEP 152799, REWARD[-10:] 330.0¡¾138.8, REWARD[-100:] 329.2¡¾160.6, EXP_RATE[-100:] 0.2¡¾0.0, EVAL[-100:] 475.9¡¾055.0
+--> reached max_minutes (x) max_episodes (x) goal_mean_reward (o)
+Training complete.
+Final evaluation score 500.00¡¾0.00 in 582.39s training time, 28.40s wall-clock time.
+
+A2C Training start. (seed: 64937)
+[00:00:04] EP 0000, STEP 000010, REWARD[-10:] 010.0¡¾000.0, REWARD[-100:] 010.0¡¾000.0, EXP_RATE[-100:] 0.1¡¾0.0, EVAL[-100:] 011.0¡¾000.0
+[00:00:27] EP 1013, STEP 171055, REWARD[-10:] 370.8¡¾166.9, REWARD[-100:] 425.4¡¾140.6, EXP_RATE[-100:] 0.2¡¾0.0, EVAL[-100:] 476.1¡¾047.5
+--> reached max_minutes (x) max_episodes (x) goal_mean_reward (o)
+Training complete.
+Final evaluation score 500.00¡¾0.00 in 619.81s training time, 30.23s wall-clock time.
+
